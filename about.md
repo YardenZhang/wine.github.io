@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ä«¼Ò
+title: About
 ---
 
 Hello.
