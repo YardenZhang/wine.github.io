@@ -2,10 +2,10 @@ Gem::Specification.new do |spec|
 	spec.name          = "the-plain"
 	spec.version       = "4.0.0"
 	spec.authors       = ["Heiswayi Nrird"]
-	spec.email         = ["heiswayi@nullableobject.com"]
+	spec.email         = ["wineshe@qq.com"]
 
 	spec.summary       = "A minimalist Jekyll theme"
-	spec.homepage      = "https://github.com/heiswayi/the-plain"
+	spec.homepage      = "https://mojia.org"
 	spec.license       = "MIT"
 
 	spec.metadata["plugin_type"] = "theme"
