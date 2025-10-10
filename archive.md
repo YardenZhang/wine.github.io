@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: 张亚东 <br> Yarden Zhang
 ---
 
