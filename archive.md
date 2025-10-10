@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <h1 class="title">张亚东 <br> Yarden Zhang</h1>
+title: 张亚东 <br> Yarden Zhang
 ---
 
 <section>
