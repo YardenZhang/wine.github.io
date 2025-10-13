@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 张亚东 <br> Yarden Zhang
+title: About
 ---
 
 Hello，World！
