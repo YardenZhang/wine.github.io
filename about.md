@@ -3,11 +3,6 @@ layout: page
 title: About
 ---
 
-Hello，World！
-
-I‘m Yarden Zhang, a beginner of wine & baijiu，I am on the way to be a veteran wine practitioner,This is my blog which will record my observe and thinking about wine,especially Chinese wine. Looking forward to contact with you.
-
-Beijing・China
 <p>是一个来自农村的男孩，从小学-初中-高中-大学一步步走来，在家人和自己的努力下，从西部的一个小山村，来到了大都市。他经历过不同的社会，接触过不同的人群，学习了不同的知识，但由于他的悟性不足，努力不够，所以一直在路上。这是他的博客，我将在这里记录他的所见所闻，所思所想，希望和大家多多交流~</p>
 <strong>1988年</strong>
 <p><img src="https://wineshe.oss-cn-shanghai.aliyuncs.com/typecho/2024/12/22/HPIM2862.png" alt="出生100天后的自己" title="出生100天后的自己"></p>
